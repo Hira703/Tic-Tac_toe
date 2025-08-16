@@ -6,7 +6,7 @@ Features include detecting wins, draws, showing the current player, and restart/
 ---
 
 ## 🎮 Demo
-Check out the live demo here: []
+Check out the live demo here: [https://tic-tac-toe-game-nine-lilac.vercel.app/]
 
 ---
 
